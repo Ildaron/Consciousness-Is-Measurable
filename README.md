@@ -12,7 +12,7 @@ This project exists to collect, structure, and benchmark those traces.
 ### What This Repo Actually Contains
 1. Curated Datasets (Human, Animal, Machine)
 
-This repo does not dump links. It organizes them.  
+We try to organize the dataset here and visualization, not all datasets inthe  public domain, and some of them need approval. In this case, we provide a script and details on how to receive the dataset    
 Human / Biological  
 - EEG datasets (awake, asleep, anesthetized)
 - fMRI awareness and masking experiments
