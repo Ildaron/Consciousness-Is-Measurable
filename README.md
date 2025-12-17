@@ -36,7 +36,7 @@ Why it relates to consciousness
   
 consciousness/  
 ├── datasets/  
-│ ├── human/  
+│ ├── human/mouse/insect    
 │ │ ├── eeg/  
 │ │ ├── fmri/  
 │ │ └── anesthesia_sleep/  
