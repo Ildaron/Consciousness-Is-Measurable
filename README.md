@@ -9,8 +9,7 @@ If consciousness exists, it leaves data traces. If it leaves data traces, it can
 This project exists to collect, structure, and benchmark those traces.
 
 
-My plan 
-Create the next format 
+My plan to create the next format     
 
 consciousness/  
 ├── datasets/  
