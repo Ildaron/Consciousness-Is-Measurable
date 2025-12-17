@@ -39,3 +39,7 @@ consciousness/
 │ └── references.md  
 │
 └── README.md 
+
+Contact     
+ildarr2016@gmail.com     
+  
