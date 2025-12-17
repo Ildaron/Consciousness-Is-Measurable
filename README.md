@@ -9,6 +9,46 @@ If consciousness exists, it leaves data traces. If it leaves data traces, it can
 This project exists to collect, structure, and benchmark those traces.
 
 
+What This Repo Actually Contains
+1. Curated Datasets (Human, Animal, Machine)
+
+This repo does not dump links. It organizes them.
+
+Human / Biological
+
+EEG datasets (awake, asleep, anesthetized)
+
+fMRI awareness and masking experiments
+
+Connectome-level structural data
+
+Cognitive / Behavioral Proxies
+
+Reaction time and attention-switching tasks
+
+Metacognition confidence datasets
+
+Error-awareness experiments
+
+Machine / Synthetic
+
+LLM self-reflection traces
+
+Long-horizon agent memory logs
+
+Identity consistency across context resets
+
+Tool-use self-modeling outputs
+
+Each dataset includes:
+
+Why it relates to consciousness
+
+What proxy it measures
+
+Known limitations  
+
+
 My plan to create the next format     
 
 consciousness/  
