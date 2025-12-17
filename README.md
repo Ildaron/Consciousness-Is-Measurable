@@ -1,4 +1,4 @@
-#Consciousness Is Measurable
+# Consciousness Is Measurable
 
 This repository treats consciousness as an engineering problem, not a mystical one.
 
