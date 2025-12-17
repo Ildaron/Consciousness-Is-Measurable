@@ -12,31 +12,31 @@ This project exists to collect, structure, and benchmark those traces.
 My plan 
 Create the next format 
 
-consciousness/
-├── datasets/
-│ ├── human/
-│ │ ├── eeg/
-│ │ ├── fmri/
-│ │ └── anesthesia_sleep/
-│ ├── cognitive/
-│ │ ├── attention/
-│ │ ├── metacognition/
-│ │ └── reaction_time/
-│ └── machine/
-│ ├── llm_reflection/
-│ ├── agent_memory/
-│ └── identity_consistency/
+consciousness/  
+├── datasets/  
+│ ├── human/  
+│ │ ├── eeg/  
+│ │ ├── fmri/  
+│ │ └── anesthesia_sleep/  
+│ ├── cognitive/  
+│ │ ├── attention/  
+│ │ ├── metacognition/  
+│ │ └── reaction_time/  
+│ └── machine/  
+│ ├── llm_reflection/  
+│ ├── agent_memory/  
+│ └── identity_consistency/  
 │
-├── benchmarks/
-│ ├── self_model/
-│ ├── memory_continuity/
-│ ├── perturbation_tests/
-│ └── integration_metrics/
+├── benchmarks/  
+│ ├── self_model/  
+│ ├── memory_continuity/  
+│ ├── perturbation_tests/  
+│ └── integration_metrics/  
 │
-├── theory/
-│ └── minimal_assumptions.md
+├── theory/  
+│ └── minimal_assumptions.md  
 │
-├── papers/
-│ └── references.md
+├── papers/  
+│ └── references.md  
 │
 └── README.md 
