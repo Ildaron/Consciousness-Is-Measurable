@@ -65,4 +65,5 @@ consciousness/
 
 Contact     
 ildarr2016@gmail.com     
-  
+
+Linkedin Group https://www.linkedin.com/company/brain-news/   
