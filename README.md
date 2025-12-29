@@ -63,7 +63,8 @@ consciousness/
 │
 └── README.md 
 
-Contact     
+Contact  
+If you have an interest in contributing to the project    
 ildarr2016@gmail.com     
 
 Linkedin Group https://www.linkedin.com/company/brain-news/   
