@@ -21,4 +21,6 @@ Normalization: Run the normalization scripts to prepare the data for comparison 
 
 Visualization: Generate heatmaps of the human brain to see where consciousness-related activity is most likely to be localized.  
 
-  
+Dataset Link 
+Go to the Allen Brain Map atlases page:
+https://human.brain-map.org/static/download   
