@@ -4,17 +4,17 @@ Correlate gene expression signatures with brain regions involved in the "Global 
 Provide a standardized coordinate system for measuring consciousness-related metrics.  
 
 
-📂 Contents  
+Contents  
 Analysis_Scripts/: Python scripts for querying the Allen API and downloading microarray data.  
 
-🛠 Installation & Setup  
+Installation & Setup  
 To use these scripts, you will need the Allen Software Development Kit (SDK):  
 
 Bash   
 pip install allensdk  
 pip install numpy pandas matplotlib  
 
-🚀 How to Use  
+How to Use  
 Data Fetching: Use the scripts provided to pull expression data for specific regions of interest (ROI).  
 
 Normalization: Run the normalization scripts to prepare the data for comparison with EEG or fMRI datasets.  
