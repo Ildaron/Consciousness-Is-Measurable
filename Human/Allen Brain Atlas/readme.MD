@@ -1,3 +1,7 @@
+### Dataset Link   
+Go to the Allen Brain Map atlases page:
+https://human.brain-map.org/static/download   
+
 The Allen Human Brain Atlas is a comprehensive map of gene expression and anatomy. In this project, we utilize this data to:  
 Identify high-density neural regions associated with conscious processing.  
 Correlate gene expression signatures with brain regions involved in the "Global Workspace."  
@@ -21,6 +25,4 @@ Normalization: Run the normalization scripts to prepare the data for comparison 
 
 Visualization: Generate heatmaps of the human brain to see where consciousness-related activity is most likely to be localized.  
 
-### Dataset Link   
-Go to the Allen Brain Map atlases page:
-https://human.brain-map.org/static/download   
+
