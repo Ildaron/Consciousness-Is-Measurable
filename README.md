@@ -28,8 +28,7 @@ Each dataset includes:
 Why it relates to consciousness
 - What proxy it measures
 - Known limitations
-- My plan to create the next format     
-
+- Our task to create the next format     
   
 consciousness/  
 ├── datasets/  
