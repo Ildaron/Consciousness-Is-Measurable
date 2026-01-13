@@ -1,4 +1,6 @@
 # Consciousness Is Measurable
+Open-Source Project to solve one of the main mysteries. Join the team.     
+
 
 This repository approaches consciousness as an engineering problem rather than a mystical concept. Our current objective is to provide Python scripts that enable easy access to available brain datasets, facilitating practical analysis, experimentation, and reproducible research.    
   
