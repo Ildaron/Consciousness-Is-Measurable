@@ -64,5 +64,5 @@ Contact
 If you have an interest in contributing to the project    
 ildarr2016@gmail.com   
 Join the team  
-Join to Discord via the next [link]9https://discord.gg/pevTsW5ZrE)   
+Join to Discord via the next [link](9https://discord.gg/pevTsW5ZrE)   
 LinkedIn Group https://www.linkedin.com/company/brain-news/   
